@@ -1,10 +1,13 @@
 {
-  "name": "MC Dynamite",
-  "description": "Totally hawt Managed Component 🔥🔥🔥",
-  "namespace": "mc-dynamite",
-  "icon": "assets/mc-dynamite.svg",
-  "categories": [],
+  "name": "Upward",
+  "description": "Upward is a recruiting tool!",
+  "namespace": "upward",
+  "icon": "assets/upward.svg",
+  "categories": ["Recruiting"],
   "provides": ["events"],
+  "fields": {
+    "account_id": {}
+  },
   "allowCustomFields": true,
   "permissions": []
 }
