@@ -20,6 +20,12 @@ Find out more about Managed Components [here](https://blog.cloudflare.com/zaraz-
 2. Install dependencies with `npm i`
 3. Run unit test watcher with `npm run test:dev`
 
+## 🧱 Fields Description
+
+### aid
+
+`number` An Upward Account Representative will provide you with your unique Account ID
+
 ## 📝 License
 
 Licensed under the [Apache License](./LICENSE).

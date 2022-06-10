@@ -5,9 +5,6 @@
   "icon": "assets/upward.svg",
   "categories": ["Recruiting"],
   "provides": ["events"],
-  "fields": {
-    "account_id": {}
-  },
   "allowCustomFields": true,
   "permissions": []
 }
