@@ -6,5 +6,5 @@
   "categories": ["Recruiting"],
   "provides": ["events"],
   "allowCustomFields": true,
-  "permissions": []
+  "permissions": {}
 }
