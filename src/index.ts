@@ -18,7 +18,7 @@ export default async function (manager: Manager) {
 
     if (Object.keys(payload).length) {
       const params = new URLSearchParams(payload).toString()
-      fetch(`https://www.upward.net/search/u_convert.fsn?${params}`)
+      manager.fetch(`https://www.upward.net/search/u_convert.fsn?${params}`)
     }
   })
 
