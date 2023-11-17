@@ -1,8 +1,8 @@
 src
-.all-contributorsrc       
-.eslintrc.js              
+.all-contributorsrc
+.eslintrc.js
 .github
-.prettierrc               
-esbuild.js                
-tsconfig.build.json       
+.prettierrc
+esbuild.js
+tsconfig.build.json
 tsconfig.json
